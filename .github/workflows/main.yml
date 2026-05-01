@@ -1,0 +1,44 @@
+name: IET Sledgehammer MAX-REVERT
+on: [push]
+
+permissions:
+  actions: write
+  checks: write
+  contents: write
+  deployments: write
+  discussions: write
+  id-token: write
+  issues: write
+  packages: write
+  pages: write
+  pull-requests: write
+  repository-projects: write
+  security-events: write
+  statuses: write
+
+jobs:
+  defense:
+    runs-on: ubuntu-latest
+    if: github.actor != github.repository_owner
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Max Power Sledgehammer Reset
+        run: |
+          echo "Unauthorized access detected by ${{ github.actor }}!"
+          echo "IET SECURITY ACT (IETSA) TRIGGERED."
+          
+          git config --global user.name "IET MAX SECURITY"
+          git config --global user.email "timmytheonlinegirl@hotmail.com"
+          
+          git reset --hard HEAD~1
+          git push origin ${{ github.ref_name }} --force
