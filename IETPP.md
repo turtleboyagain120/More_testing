@@ -4,7 +4,7 @@ Stated directly “© \[date\] \[name\] DIRECTLY STATED BY THE OWNER AND IETPP�
 
 # Intro:
 
-Most private policies try to behalf your data to keep. We clearly state in this passage that the software is doing an act of unauthorized access to keep the users data known that most likely contains: phone number, ip address, name, and illegal or illegal, still breaks the policy contained in any form that this license shows.”
+Most private policies try to behalf your data to keep. We clearly state in this passage that the software is **NOT** doing an act of unauthorized access to keep the users data known that most likely contains: phone number, ip address, name, and illegal or illegal, still breaks the policy contained in any form that this license shows.”
 
 # Disclaimer: 
 
