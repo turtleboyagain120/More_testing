@@ -1,29 +1,22 @@
-# IETM \- IF ELSE THEN FOR THE MIT LICENSE.
+# IETM LICENSE (IF ELSE THEN)
 
-STATED “© \[NAME\] \[YEAR\]” ALL RIGHTS ASSERTED BY THE IETM
+# COPYRIGHT
+Copyright (c) [YEAR] [NAME]
 
-# Introduce:
+# INTRODUCTION
+The IETM license grants absolute user freedom. Users receive full, unrestricted software permissions.
 
-- “The Owner” refers to \[name here\], who made this project on \[date\] in \[year\]  
-- “The user” is a person of any kind who clicked on the project.  
-- “The software” is the code itself and the executable program  
-- “The work” is the whole product.
+# DEFINITIONS
+*   **"The Owner"** refers to [NAME], who created this project on [DATE], [YEAR].
+*   **"The Software"** refers to the code, files, and executable programs provided.
+*   **"The Work"** refers to the project in its entirety.
+*   **"The User"** refers to any person or entity exercising permissions granted by this license.
 
-Most licenses take your freedom. By contrast, the IETM license is freedom itself.
+# GRANT OF PERMISSION
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Software, to deal in the Software without restriction, including without limitation the rights to use, read, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Work, subject to the conditions of this license.
 
-### DISCLAIMER:
+# THE IETM PHILOSOPHY
+The IETM License is designed for ultimate developer freedom. It operates on a simple logic: IF you have the code, ELSE (regardless of who you are), THEN you have the right to use it FOR any purpose. It prioritizes the "Right to Tinker" above all else.
 
-***ALL WAIVERS WITHIN THIS DOCUMENT ARE DISCLOSED TO THE MAXIMUM EXTENT PERMITTED BY LAW. PERMISSION IS HEREBY GRANTED BY THE OWNER (WHICH REFERS TO \[NAME HERE\]) TO READ, MODIFY, AND REDISTRIBUTE THIS WORK WITHOUT WARRANTY OF ANY KIND, IN ANY LOCATION, AND IN ANY COUNTRY WHERE PERMITTED. CONSEQUENTLY, THIS PROJECT, INCLUDING BOTH THE WORK AND THE SOFTWARE, IS PROVIDED STRICTLY "AS-IS" FROM BEGINNING TO END WITHOUT ANY WARRANTIES OF ANY KIND, WHETHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR THAT THE SOFTWARE WILL FUNCTION, WORK, OR SERVE ANY SPECIFIC PURPOSE. THE OWNER SHALL NOT BE HELD LIABLE FOR ANY CLAIMS OR LIABILITIES—INCLUDING TORT AND NEGLIGENCE—REGARDLESS OF ANY PRIOR GUARANTEES, AS THE SOFTWARE HAS NO GUARANTEED AVAILABILITY OR FUNCTIONALITY. THEREFORE, THE USER MUST UNDERSTAND THAT THEY ARE GRANTED NO WARRANTIES IN ANY FORM, EVEN IN INSTANCES WHERE LOCAL LAW MIGHT OTHERWISE PERMIT THEM. SPECIFICALLY, THIS LICENSE IS DESIGNED TO PROTECT THE OWNER IN EVERY CAPACITY, AND BECAUSE NOTHING IN THIS LICENSE IS GUARANTEED, THE USER ASSUMES ALL RISK AND IS HELD FULLY LIABLE FOR ANY REASON OR PURPOSE THAT MAY ARISE FROM USING THIS PROJECT.***
-
-### HOW TO USE THIS TEMPLATE:
-
-***1\. Create a new file in your project folder named \`LICENSE\`.***
-
-***2\. Copy the text above and paste it into that file.***
-
-***3\. Replace the bracketed placeholders \`\[NAME\]\`, \`\[YEAR\]\`, and \`\[DATE\]\` with your own information.***
-
-***4\. (Optional) If you are using GitHub, you can also paste this into your \`README.md\` under a "License" header.***
----
-
-Any questions? contact <timmytheonlinegirl@hotmail.com>
+# DISCLAIMER
+THIS PROJECT IS PROVIDED "AS-IS" WITHOUT ANY WARRANTY OR LIABILITY OF ANY KIND. THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGES, INCLUDING THOSE ARISING FROM TORT OR NEGLIGENCE, FROM THE BEGINNING TO THE END OF THE SOFTWARE'S LIFECYCLE. FURTHERMORE, THE SOFTWARE IS PROVIDED WITHOUT ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. CONSEQUENTLY, THE USER ASSUMES ALL LIABILITY IN EVERY REGARD, AS THIS LICENSE SERVES TO FULLY DISCLOSE THE OWNER'S TOTAL DISCLAIMER OF ALL LIABILITY AND LEGAL OBLIGATIONS.
