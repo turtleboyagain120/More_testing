@@ -1,4 +1,4 @@
-© [year] [name]
+© [year] [name] ALL RIGHTS RESERVED
 
 ---
 
