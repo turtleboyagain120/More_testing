@@ -7,7 +7,7 @@ MAY SECOND, TWENTY TWENTY SIX.
 TIME OF MAKING: 08:10 PM [EST]
 PROJECT: [PROJECT NAME]
 AUTHOR: [NAME]
-CONTACT: Timmytheonlinegirl@hotmail.com
+CONTACT: <timmytheonlinegirl@hotmail.com>
 STATUS: STABLE
 ```
 
