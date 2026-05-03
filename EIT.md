@@ -12,13 +12,8 @@ STATUS: STABLE
 
 ### Permission is hereby granted to use, read, modify, share, distribute, and sublicense this work for any purpose, including commercial use (selling for profit), provided that the original copyright notice remains intact.
 ---
-
-### DISCLAIMER & AGREEMENT
----
 **THIS WORK IS PROVIDED "AS-IS." THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGES (INCLUDING NEGLIGENCE) THROUGHOUT THE SOFTWARE'S LIFECYCLE. THERE ARE NO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.**
 ---
-
-### governing law
 This agreement shall be governed by the laws of [country, state].
 
 # agree to license
