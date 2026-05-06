@@ -9,25 +9,16 @@ The owner refers to [name] who made the software named [project name] on [Full D
 
 # ToS Section:
 
-1. If you use the work, you DO NOT see inside the software in any way.  
-2. You are taking only the authorized part of the software, NOT the work. It is not yours. It still belongs to the Owner.  
-3. If you stop using the software, you no longer have consent to use it. You must delete all copies. The Owner has full charge of it from now on until the user asks for new permission.  
-4. A "Grant" does not mean anything is allowed until the Owner specifically states every single grant.  
-5. Everything is prohibited until the Owner specifically states it is allowed.  
-6. The user is not the developer nor a collaborator of the work unless the Owner grants permission in writing.  
-7. No robots are allowed.  
-8. **ADMIN/CEO IS DIFFERENT FROM THE OWNER. THE OWNER RULES OVER ALL AND THE ADMIN/CEO RULES OVER LITTLE COMPARED TO THE OWNER.**  
-9. Do not borrow names or steal names from unofficial content.  
-10. This project is provided "as-is."  
-11. One license may protect a user, another a group, and another a whole company, but they are not the same. A license is like a ticket for a seat; you can sit in it, but you cannot sell the seat to someone else or let them sit on your lap.  
-12. Anything else, including an “authorized by company” card, is still unauthorized in our eyes.
+1. you shall discard any unauthorized access to the software and report it to the owner.
+2. all prohibitations means authorized access to nothing until prohibitations listed
+3. the user will have nothing granted in the list of granting permissions until listed.
+4. All software noted from other companys shall not be authornized no matter the intent.
+5. Admin, ceo and IT admin are seprate groups for ("The Software").
 
 # AUP Section:
 
-1. Do not break code for fun or sue us to get money or for any other purpose shown in this AUP section.  
-2. Do not abuse, harm, or tort others (no battery, stalking, or abuse). This means no fighting or hitting people in real life if it comes from stalking or unauthorized access to locations.  
-3. **MADE BY THE ORIGINAL OWNER**: The software and the licenses belong to the person who made the work, known as the Owner [name]. This project was made on [date] with a guarantee that this was the official start date.  
-4. **Do not do stuff that Jesus would not do.** This is the most important rule that covers this whole agreement.
+1. Do not mislead.
+2. **MADE BY THE ORIGINAL OWNER**: The software and the licenses belong to the person who made the work, known as the Owner [name]. This project was made on [date] with a guarantee that this was the official start date.  
 
 # **AGREE TO THE LICENSE**
 - [ ] **BY CLICKING THIS CHECKMARK, YOU AGREED TO THE ToS AND AUP. BY USING THE CODE, THE WORK, OR THE SOFTWARE—EVEN WITHOUT CLICKING THE CHECKMARK—YOU HAVE STILL AGREED TO THE ToS AND AUP IN FULL.**
